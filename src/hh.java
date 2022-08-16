@@ -11,5 +11,6 @@ public class hh {
         System.out.println("5526439772");
         System.out.println("5526439772");
         System.out.println("5526439772");
+        System.out.println("0000000");
     }
 }
